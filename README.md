@@ -1,4 +1,4 @@
-![image](https://github.com/cs128-2021c/final-project-chong/blob/main/image/UIUC_logo.png)
+![image](https://github.com/CoulsonZhang/128-Group-Project/blob/main/image/UIUC_logo.png)
 # CS 128 Final Project Proposal
 _Group Name: CHONG_
 
@@ -11,7 +11,7 @@ Find the shortest route from building A and building B on Campus
 - Proposed features: given two buildings, calculating the shortest path
 - What we have accomplish: a visualized shortest path highlighted on the map
 ### Sample output:
-![image](https://github.com/cs128-2021c/final-project-chong/blob/main/image/demo.png)
+![image](https://github.com/CoulsonZhang/128-Group-Project/blob/main/image/demo.png)
 ### Features we were unable to implement: 
 everything in the proposal is accomplished, but maybe we could improve our project by making it more user-friendly, like implementing an iteractive user interface etc. 
 
